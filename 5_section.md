@@ -104,6 +104,8 @@
 1. **국가 선택 탭 구성:**
 * **[한국]** 개인정보 보호법 (만 14세 미만 기준)
 * **[EU]** GDPR (만 16세 미만 기준 또는 국가별 13~15세 선택)
+  <img width="791" height="748" alt="image" src="https://github.com/user-attachments/assets/bb861494-8e73-4ad7-badb-65db563acf37" />
+  
 * **[미국]** CCPA/CPRA (만 13세 미만 및 만 13~16세 2단계 기준)
 * **[글로벌 통합]** 3개국 동시 진단 및 최엄격 기준 자동 적용
 
